@@ -48,8 +48,9 @@ O processo funciona de forma muito intuitiva.
 ![imagem_2024-03-28_124611592](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/4c01b46d-2e28-485c-b7c8-e6595ff183fc)</br>
 Neste caso, foram alterados os valores de **colorPrimary** e **android:backgroundTint**. Já em **activity_main.xml** referenciamos as cores aos nomes dados às cores nos temas para que assim, o aplicativo possa alternar entre **LightMode** e **DarkMode**.
 
-O ícone foi pego de um banco de ícones gratuíto e acrescentado ao aplicativo a partir da ferramenta nativa do Android Studio.
+O ícone foi pego de um banco de ícones gratuíto e acrescentado ao aplicativo a partir da ferramenta nativa do Android Studio.</br>
 ![image](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/44250814-0c09-4632-8e98-0d49ccc4148f)</br>
+Alguns problemas de indentação foram resulvidos apenas alterando a margem e o width de elementos.
 
 ##Conclusão
 A partir das alterações realizadas neste aplicativo, eu pude ganhar mais familiaridade com o framework e me adaptar um pouco melhor ao IDE do Android Studio.
