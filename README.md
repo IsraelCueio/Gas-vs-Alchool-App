@@ -1,12 +1,12 @@
-Nome: Israel Coelho Cunha
+Nome: Israel Coelho Cunha <br>
 Matrícula: 470037
 
-# (ESSE PDF É UMA CONVERSÃO DO README.MD DO GITHUB. RECOMENDO A VISUALIZAÇÃO POR LÁ. LINK ABAIXO)
+### LINK PARA O GITHUB
 https://github.com/IsraelCueio/Gas-vs-Alchool-App
 
 ## Introdução
 
-Este aplicativo, tem como intuito auxiliar na escolha entre abastecer com álcool ou com gasolina. <br> <br>
+Este aplicativo, tem como intuito auxiliar na escolha entre abastecer com álcool ou com gasolina.
 Ao inserir o valor do Litro da Gasolina e o valor do litro do Álcool, o aplicativo calcula o quão mais barato o Álcool está com relação a Gasolina. Se o preço do álcool for menos que 70%(ou 75% a depender do modelo) do preço da gasolina, o abastecimento com álcool é recomendado. <br> <br> 
 ## Desenvolvimento
 ### Conectando a variável percentual ao Switch
