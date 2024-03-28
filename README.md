@@ -10,7 +10,7 @@ Ao inserir o valor do Litro da Gasolina e o valor do litro do Álcool, o aplicat
 A depender do modelo do carro, é necessário que o álcool seja apenas 75% do preço da gasolina, ao invés de 70%, para que seja recomendado o abastecimento à álcool. 
 A variável **percentual** se encarrega de guardar a porcentagem máxima do preço do álcool com relação a gasolina para posteriores cálculos.</br>
 Embora já existente, a variável ainda não estava ligada ao **switch** responsável por alternar o valor entre 70% e 75%.</br>
-![image](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/55b17ba9-0b98-48d8-9748-12f44212df1d)
+![image](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/55b17ba9-0b98-48d8-9748-12f44212df1d)</br>
 
 A imagem acima, mostra um trecho de código do arquivo **Activity_main.xml**, onde o Switch foi declarado. Utilizamos o método **android:onClick** para chamar a função **onClickSwitch** que será declarada em **MainAcitivity.kt** como mostrado na imagem abaixo. O método citado irá executar a função **onClickSwitch** sempre que houver interação com o **Switch**.</br>
 
@@ -41,10 +41,10 @@ O objetivo da variável **proportion** é calcular a porcentagem do preço do á
 ![imagem_2024-03-28_124246670](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/9d2cc821-b3cf-47f6-8e35-4770d6754bdc)</br>
 A partir de uma prototipação simples no Figma foi escolhida uma nova palheta de cores juntamente a um novo ícone.
 ![c266b7a6-a65f-4795-a0af-ab9c68bc2da8](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/8aec613f-7707-4ba9-8417-03a9681e9b64)
-![7512289c-4cc9-43f3-8834-fc813475fa57](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/78cbb9bf-552a-4700-bddf-594a1f6d2e29)
+![7512289c-4cc9-43f3-8834-fc813475fa57](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/78cbb9bf-552a-4700-bddf-594a1f6d2e29)</br>
 
 Na pasta **themes** temos dois arquivos de tema, um para o **lightmode** e outro para o **darkmode**, lá dentro foram alteradas as cores necessárias para alcançar os resultados mostrados acima.
-O processo funciona de forma muito intuitiva. 
+O processo funciona de forma muito intuitiva.</br>
 ![imagem_2024-03-28_124611592](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/4c01b46d-2e28-485c-b7c8-e6595ff183fc)</br>
 Neste caso, foram alterados os valores de **colorPrimary** e **android:backgroundTint**. Já em **activity_main.xml** referenciamos as cores aos nomes dados às cores nos temas para que assim, o aplicativo possa alternar entre **LightMode** e **DarkMode**.
 
