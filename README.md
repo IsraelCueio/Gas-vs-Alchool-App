@@ -36,7 +36,7 @@ Com as variáveis importadas, podemos realizar o cálculo.</br>
 A partir da variável criada, **btCalc**, atribuimos um **Listener** que aguarda a interação com o botão para executar o algoritmo que calcula o resultado aguardado pelo usuário.
 O objetivo da variável **proportion** é calcular a porcentagem do preço do álcool com relação a gasolina. Com esse valor em mãos, tudo que precisamos fazer é comparar **proportion** a **percentual**. **proportion** deve ser menor que **percentual** para que o álcool seja recomendado.
 
-###Alterações Visuais
+### Alterações Visuais
 
 ![imagem_2024-03-28_124246670](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/9d2cc821-b3cf-47f6-8e35-4770d6754bdc)</br>
 A partir de uma prototipação simples no Figma foi escolhida uma nova palheta de cores juntamente a um novo ícone.
@@ -52,7 +52,7 @@ O ícone foi pego de um banco de ícones gratuíto e acrescentado ao aplicativo 
 ![image](https://github.com/IsraelCueio/Gas-vs-Alchool-App/assets/68167016/44250814-0c09-4632-8e98-0d49ccc4148f)</br>
 Alguns problemas de indentação foram resulvidos apenas alterando a margem e o width de elementos.
 
-##Conclusão
+## Conclusão
 A partir das alterações realizadas neste aplicativo, eu pude ganhar mais familiaridade com o framework e me adaptar um pouco melhor ao IDE do Android Studio.
 
 
